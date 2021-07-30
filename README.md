@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nsalmon3
+- 👀 I’m interested in Stochastic Processes and Machine Learning
+- 🌱 I’m currently working on a PhD in Mathematical Finance and Stochastic Processes
+- 📫 Reach me at nicholas.salmon@ndsu.edu
